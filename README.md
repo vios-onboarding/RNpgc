@@ -8,7 +8,7 @@ You may use the provided resources to follow along with the course, debug your c
 
 This repository contains multiple [branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches). Every branch represents a course section and contains the resources that belong to that section.
 
-For example, the branch [02-basics](https://github.com/academind/react-native-practical-guide-code/tree/02-basics) contains all course resources (e.g., code snapshots) that belong to section 2 ("React Native Basics") of the course.
+For example, the branch [02-basics](https://github.com/vios-onboarding/RNpgc/tree/02-basics) contains all course resources (e.g., code snapshots) that belong to section 2 ("React Native Basics") of the course.
 
 You can switch branches via the dropdown in the top left corner of this repository page:
 
