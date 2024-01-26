@@ -8,20 +8,18 @@ You may use the provided resources to follow along with the course, debug your c
 
 This repository contains multiple [branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches). Every branch represents a course section and contains the resources that belong to that section.
 
-For example, the branch [02-basics](https://github.com/vios-onboarding/RNpgc/tree/02-basics) contains all course resources (e.g., code snapshots) that belong to section 2 ("React Native Basics") of the course.
+For example, the branch [27-optimizing-lists-with-flatList](https://github.com/vios-onboarding/RNpgc/tree/27-optimizing-lists-with-flatList) contains paragraph of course with his content (e.g., code snapshots).
 
 You can switch branches via the dropdown in the top left corner of this repository page:
 
 
 # Provided Resources
 
-In most branches (i.e., for most course sections), you find the following multiple folders with different code snapshots for this course section:
+In most branches (i.e., for most course sections), you find the different code snapshots for this course section:
 
 # Using Code Snapshots
 
 Code snapshots are there for you to compare your code to mine and find + fix errors you might have in your code.
-
-The folders are named such that mapping them to the course lectures is straightforward.
 
 # Running The Provided Code
 
